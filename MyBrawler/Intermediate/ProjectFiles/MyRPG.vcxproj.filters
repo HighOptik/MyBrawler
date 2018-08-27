@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MyRPG.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{FE0A0166-BB36-415C-A86B-E80E6EEA7989}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MyRPG.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MyRPGEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{28CACA39-9698-4DB1-BF24-7403487A1229}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MyRPG">
+			<UniqueIdentifier>{9FECBA21-00AD-4804-9FD4-13BA4A0902F8}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MyRPG\MyRPG.Build.cs">
+			<Filter>Source\MyRPG</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MyRPG\MyRPG.cpp">
+			<Filter>Source\MyRPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyRPG\MyRPG.h">
+			<Filter>Source\MyRPG</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MyRPG\MyRPGGameModeBase.cpp">
+			<Filter>Source\MyRPG</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyRPG\MyRPGGameModeBase.h">
+			<Filter>Source\MyRPG</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

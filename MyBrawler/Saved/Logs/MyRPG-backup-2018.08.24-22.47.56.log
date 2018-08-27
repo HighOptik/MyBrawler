@@ -1,0 +1,1117 @@
+﻿Log file open, 08/24/18 21:35:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyRPG
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(281248253) SRandInit(281248253).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.597968
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.519s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../GameDev_UE4/MyRPG/Binaries/Win64/UE4Editor-MyRPG.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-EJA8Q28 (127.0.0.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/Unreal/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.094s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.25-01.35.41:285][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.25-01.35.41:285][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.25-01.35.41:402][  0]LogInit: Computer: DESKTOP-EJA8Q28
+[2018.08.25-01.35.41:402][  0]LogInit: User: mikee
+[2018.08.25-01.35.41:402][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.08.25-01.35.41:402][  0]LogInit: High frequency timer resolution =2.156249 MHz
+[2018.08.25-01.35.41:403][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.25-01.35.41:403][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.25-01.35.41:403][  0]LogMemory: Process Physical Memory: 275.40 MB used, 275.40 MB peak
+[2018.08.25-01.35.41:403][  0]LogMemory: Process Virtual Memory: 279.43 MB used, 279.43 MB peak
+[2018.08.25-01.35.41:404][  0]LogMemory: Physical Memory: 4420.58 MB used,  11819.42 MB free, 16240.00 MB total
+[2018.08.25-01.35.41:404][  0]LogMemory: Virtual Memory: 4824.20 MB used,  11819.42 MB free, 134217728.00 MB total
+[2018.08.25-01.35.41:957][  0]LogInit: Using OS detected language (en-US).
+[2018.08.25-01.35.41:957][  0]LogInit: Using OS detected locale (en-CA).
+[2018.08.25-01.35.41:960][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.25-01.35.42:525][  0]LogStreaming: Display: Took  0.568s to EndInitTextLocalization.
+[2018.08.25-01.35.42:526][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.25-01.35.42:564][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.25-01.35.42:564][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.25-01.35.42:791][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.25-01.35.42:819][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2018.08.25-01.35.42:819][  0]LogD3D11RHI:       128/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.08.25-01.35.42:895][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.08.25-01.35.42:895][  0]LogD3D11RHI:       6061/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.08.25-01.35.42:897][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.25-01.35.42:897][  0]LogD3D11RHI:       0/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.25-01.35.42:897][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2018.08.25-01.35.42:916][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.25-01.35.42:916][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.25-01.35.42:916][  0]LogWindows: EnumDisplayDevices:
+[2018.08.25-01.35.42:916][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.08.25-01.35.42:917][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.08.25-01.35.42:917][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.08.25-01.35.42:917][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.08.25-01.35.42:917][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.08.25-01.35.42:917][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.08.25-01.35.42:918][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2018.08.25-01.35.42:918][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.25-01.35.42:918][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.08.25-01.35.42:918][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.25-01.35.42:918][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.25-01.35.42:918][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.08.25-01.35.42:952][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.25-01.35.42:952][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.25-01.35.42:952][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.25-01.35.42:968][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.25-01.35.42:968][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../GameDev_UE4/MyRPG/Intermediate/Shaders/WorkingDirectory/7976/).
+[2018.08.25-01.35.42:968][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mikee/AppData/Local/Temp/UnrealShaderWorkingDir/29A9E9AD4BAEEDE3E8D8AA8F9E53B756/'.
+[2018.08.25-01.35.43:309][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.25-01.35.43:328][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.25-01.35.43:351][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.25-01.35.43:371][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.25-01.35.43:391][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.25-01.35.43:410][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.25-01.35.43:424][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.25-01.35.43:438][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.25-01.35.43:444][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.25-01.35.43:458][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.25-01.35.43:471][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.25-01.35.43:484][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.25-01.35.43:496][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.25-01.35.43:510][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.25-01.35.43:524][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.25-01.35.43:561][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.25-01.35.43:561][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.25-01.35.43:577][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-01.35.43:578][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.25-01.35.43:618][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.25-01.35.43:654][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.25-01.35.43:688][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.25-01.35.43:719][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.25-01.35.43:751][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.25-01.35.43:769][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.25-01.35.43:769][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.25-01.35.43:900][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.25-01.35.43:900][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.25-01.35.43:900][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.25-01.35.44:758][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.25-01.35.44:841][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/mikee/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.25-01.35.44:841][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mikee/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.25-01.35.44:841][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GameDev_UE4/MyRPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.25-01.35.44:841][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.25-01.35.44:841][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GameDev_UE4/MyRPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.25-01.35.44:841][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.25-01.35.44:861][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.25-01.35.44:874][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mikee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.25-01.35.44:874][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.25-01.35.44:874][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.25-01.35.44:891][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.25-01.35.44:892][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.25-01.35.44:892][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.25-01.35.44:892][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.25-01.35.45:023][  0]LogAssetRegistry: FAssetRegistry took 0.0315 seconds to start up
+[2018.08.25-01.35.45:422][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.25-01.35.45:626][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.25-01.35.45:630][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.25-01.35.45:630][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.25-01.35.45:630][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.25-01.35.45:630][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.25-01.35.45:630][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.25-01.35.45:665][  0]LogNetVersion: MyRPG , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3056239061)
+[2018.08.25-01.35.46:360][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.087280 seconds
+[2018.08.25-01.35.46:367][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.25-01.35.46:367][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.08.25-01.35.46:367][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.25-01.35.48:684][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.25-01.35.48:711][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.25-01.35.49:098][  0]SourceControl: Source control is disabled
+[2018.08.25-01.35.49:099][  0]SourceControl: Source control is disabled
+[2018.08.25-01.35.49:117][  0]SourceControl: Source control is disabled
+[2018.08.25-01.35.49:139][  0]SourceControl: Source control is disabled
+[2018.08.25-01.35.49:755][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.25-01.35.49:921][  0]LogOcInput: OculusInput pre-init called
+[2018.08.25-01.35.50:112][  0]LogEngine: Initializing Engine...
+[2018.08.25-01.35.50:114][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.25-01.35.50:117][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.25-01.35.50:117][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.25-01.35.50:490][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.25-01.35.50:516][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.35.50:660][  0]LogInit: FAudioDevice initialized.
+[2018.08.25-01.35.50:751][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/mikee/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.25-01.35.50:781][  0]LogInit: Texture streaming: Enabled
+[2018.08.25-01.35.50:807][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.25-01.35.50:830][  0]LogInit: Transaction tracking system initialized
+[2018.08.25-01.35.50:868][  0]BlueprintLog: New page: Editor Load
+[2018.08.25-01.35.51:005][  0]LocalizationService: Localization service is disabled
+[2018.08.25-01.35.51:132][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBluePrints/2DSideScrollerOverview'
+[2018.08.25-01.35.51:132][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBluePrints/2DSideScrollerOverview'
+[2018.08.25-01.35.51:132][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBluePrints/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2018.08.25-01.35.51:168][  0]LogConsoleResponse: Display: 
+[2018.08.25-01.35.51:441][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.25-01.35.51:441][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.25-01.35.51:441][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.25-01.35.51:441][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.25-01.35.51:441][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.25-01.35.51:524][  0]LogFileCache: Scanning file cache for directory 'D:/GameDev_UE4/MyRPG/Content/' took 0.06s
+[2018.08.25-01.35.51:842][  0]SourceControl: Source control is disabled
+[2018.08.25-01.35.51:842][  0]Cmd: MAP LOAD FILE="../../../../../GameDev_UE4/MyRPG/Content/LevelScenes/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.25-01.35.51:842][  0]LightingResults: New page: Lighting Build
+[2018.08.25-01.35.51:845][  0]MapCheck: New page: Map Check
+[2018.08.25-01.35.51:845][  0]LightingResults: New page: Lighting Build
+[2018.08.25-01.35.53:581][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015777f6bc80, Size=400, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.35.53:598][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015757455960, Size=48, Default__Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.35.54:490][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015757455960, Size=48
+[2018.08.25-01.35.54:490][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015700c0be20, Size=48, Default__Brawler_Anim_BP_C Function /Engine/Transient.REINST_Brawler_Anim_BP_C_0:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.35.54:491][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015777f6bc80, Size=400
+[2018.08.25-01.35.54:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015700ca9b40, Size=400, Default__Player_BrawlerBP_C Function /Engine/Transient.REINST_Player_BrawlerBP_C_2:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.35.54:542][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015700adac50, Size=48, Default__Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.35.54:547][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015700b07740, Size=400, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.35.54:983][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [17.930212ms] /Game/PlayerCharacters/Player_Brawler/medea_m_arrebola.medea_m_arrebola
+[2018.08.25-01.35.55:026][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/Attacking/Attack1.Attack1
+[2018.08.25-01.35.55:036][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/Attacking/Attack1.Attack1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.25-01.35.55:238][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/Idle/BrawlerIdle.BrawlerIdle
+[2018.08.25-01.35.55:238][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/Idle/BrawlerIdle.BrawlerIdle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.25-01.35.55:248][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/Running/Running_Anim_mixamo_com.Running_Anim_mixamo_com
+[2018.08.25-01.35.55:249][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/Running/Running_Anim_mixamo_com.Running_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.25-01.35.55:292][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/Jump/RunningJump/Jump_Anim_mixamo_com.Jump_Anim_mixamo_com
+[2018.08.25-01.35.55:292][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/Jump/RunningJump/Jump_Anim_mixamo_com.Jump_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.25-01.35.55:294][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/Jump/IdleJump/Standing_Jump_Anim_mixamo_com.Standing_Jump_Anim_mixamo_com
+[2018.08.25-01.35.55:294][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/Jump/IdleJump/Standing_Jump_Anim_mixamo_com.Standing_Jump_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.25-01.35.55:442][  0]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.35.55:515][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.25-01.35.55:544][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015700ca9b40, Size=400
+[2018.08.25-01.35.55:545][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015700c0be20, Size=48
+[2018.08.25-01.35.55:547][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.25-01.35.55:653][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 105.089ms to complete.
+[2018.08.25-01.35.55:653][  0]LogFileHelpers: Loading map 'MainLevel' took 3.811
+[2018.08.25-01.35.56:229][  0]LogCollectionManager: Loaded 0 collections in 0.001840 seconds
+[2018.08.25-01.35.56:354][  0]LogFileCache: Scanning file cache for directory 'D:/GameDev_UE4/MyRPG/Saved/Collections/' took 0.01s
+[2018.08.25-01.35.56:355][  0]LogFileCache: Scanning file cache for directory 'D:/GameDev_UE4/MyRPG/Content/Developers/mikee/Collections/' took 0.01s
+[2018.08.25-01.35.56:355][  0]LogFileCache: Scanning file cache for directory 'D:/GameDev_UE4/MyRPG/Content/Collections/' took 0.01s
+[2018.08.25-01.35.56:355][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.25-01.35.56:392][  0]LogContentBrowser: Native class hierarchy populated in 0.0353 seconds. Added 2453 classes and 560 folders.
+[2018.08.25-01.35.56:461][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.08.25-01.35.57:176][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2018.08.25-01.35.57:229][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2018.08.25-01.35.58:174][  0]LogSlate: Took 0.001098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.25-01.35.58:180][  0]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.25-01.35.58:230][  0]LogSlate: Took 0.012096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.25-01.35.58:628][  0]LogRenderer: Reallocating scene render targets to support 1748x808 Format 10 NumSamples 1 (Frame:1).
+[2018.08.25-01.35.58:979][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.08.25-01.35.58:979][  0]LogLoad: (Engine Initialization) Total time: 22.73 seconds
+[2018.08.25-01.35.58:980][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.25-01.35.58:999][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.25-01.35.59:036][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.25-01.35.59:276][  2]LogAssetRegistry: Asset discovery search completed in 14.2751 seconds
+[2018.08.25-01.35.59:278][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.25-01.35.59:278][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2018.08.25-01.36.00:113][ 44]LogSlate: Took 0.017689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.25-01.36.02:929][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.25-01.36.05:036][200]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 116 classes and 0 folders.
+[2018.08.25-01.36.05:602][200]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015702a56050, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.25-01.36.05:603][200]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015702a56048, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.25-01.36.07:369][200]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.08.25-01.36.08:101][200]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.25-01.36.08:160][200]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0020 seconds. Added 1 classes and 0 folders.
+[2018.08.25-01.36.08:727][200]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.25-01.36.09:975][200]LogSlate: Took 0.013427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.25-01.36.10:137][200]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2018.08.25-01.36.10:465][200]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.25-01.36.23:263][408]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.36.23:280][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.36.23:328][408]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:36:23 PM)
+[2018.08.25-01.36.23:328][408]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.36.23:346][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017874s)
+[2018.08.25-01.36.23:348][408]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.36.23:349][408]LogPlayLevel: PIE: World Init took: (0.002240s)
+[2018.08.25-01.36.23:349][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.020662s)
+[2018.08.25-01.36.23:441][408]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.36.23:682][408]LogInit: FAudioDevice initialized.
+[2018.08.25-01.36.23:876][408]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/MyRPG.MyRPGGameMode'
+[2018.08.25-01.36.23:877][408]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.36.23:891][408]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.08.24-21.36.23
+[2018.08.25-01.36.23:893][408]LogWorld: Bringing up level for play took: 0.012719
+[2018.08.25-01.36.23:982][408]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0024 seconds. Added 11 classes and 0 folders.
+[2018.08.25-01.36.24:001][408]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel -0.062
+[2018.08.25-01.36.45:060][127]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.36.47:853][203]LogSlate: Took 0.004711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.25-01.36.59:045][661]LogHttp: Warning: 0000015766893100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.25-01.36.59:045][661]LogHttp: Warning: 0000015766893100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.25-01.36.59:045][661]LogHttp: Warning: 0000015766893100: libcurl info message cache 1 (Closing connection 0)
+[2018.08.25-01.37.05:166][922]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.37.05:215][922]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015700b07740, Size=400
+[2018.08.25-01.37.05:215][922]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571b68ae80, Size=400, Default__Player_BrawlerBP_C Function /Engine/Transient.REINST_Player_BrawlerBP_C_23:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.37.05:224][922]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571b68a5c0, Size=400, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.37.06:749][946]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.37.06:780][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.37.06:780][946]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:37:06 PM)
+[2018.08.25-01.37.06:780][946]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.37.06:783][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002924s)
+[2018.08.25-01.37.06:784][946]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.37.06:784][946]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2018.08.25-01.37.06:784][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003928s)
+[2018.08.25-01.37.06:811][946]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.37.06:891][946]LogInit: FAudioDevice initialized.
+[2018.08.25-01.37.06:947][946]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.37.06:949][946]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.08.24-21.37.06
+[2018.08.25-01.37.06:949][946]LogWorld: Bringing up level for play took: 0.000992
+[2018.08.25-01.37.06:955][946]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.892
+[2018.08.25-01.37.12:526][146]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.37.42:937][481]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/MeleAnimPack/standing_melee_attack_360_high.standing_melee_attack_360_high
+[2018.08.25-01.37.42:938][481]LogAnimationCompression: Recompressing (AnimSequence /Game/PlayerCharacters/Player_Brawler/Animations/MeleAnimPack/standing_melee_attack_360_high.standing_melee_attack_360_high) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.25-01.37.43:145][481]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.08.25-01.37.43:183][481]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.08.25-01.37.44:009][481]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.25-01.37.51:730][787]LogSavePackage: Save=157.55ms
+[2018.08.25-01.37.51:730][787]LogSavePackage: Moving '../../../../../GameDev_UE4/MyRPG/Saved/standing_melee_attack_360_highB8AC2CA349B6C9A01C4A1BB13F961C63.tmp' to '../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Animations/MeleAnimPack/standing_melee_attack_360_high.uasset'
+[2018.08.25-01.37.51:742][787]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Animations/MeleAnimPack/standing_melee_attack_360_high.uasset
+[2018.08.25-01.37.59:792][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015796baa7d0, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.37.59:800][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015796baa7d0, Size=4
+[2018.08.25-01.37.59:800][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x000001577b318a28, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_3:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.37.59:814][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x000001577b319230, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.03:035][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001577b319230, Size=4
+[2018.08.25-01.38.03:035][202]LogUObjectGlobals: Created PersistentFrame Addr=0x000001577b319230, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_4:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.03:049][202]LogUObjectGlobals: Created PersistentFrame Addr=0x000001577b31bc60, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.07:958][455]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001577b31bc60, Size=4
+[2018.08.25-01.38.07:958][455]LogUObjectGlobals: Created PersistentFrame Addr=0x000001577b31bc60, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_5:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.07:968][455]LogUObjectGlobals: Created PersistentFrame Addr=0x000001577b3194c0, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.09:757][529]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001577b3194c0, Size=4
+[2018.08.25-01.38.09:757][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571f652648, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_6:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.09:805][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571f652140, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.09:813][529]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571f652140, Size=4
+[2018.08.25-01.38.09:813][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571f652140, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_7:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.09:828][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571f6527a8, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.33:432][650]BlueprintLog: New page: Compile Brawler_Anim_BP
+[2018.08.25-01.38.33:456][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571f6527a8, Size=4
+[2018.08.25-01.38.33:456][650]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b66096e8, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_8:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.33:499][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015700adac50, Size=48
+[2018.08.25-01.38.33:499][650]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571c14f760, Size=48, Default__Brawler_Anim_BP_C Function /Engine/Transient.REINST_Brawler_Anim_BP_C_9:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.33:520][650]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157a962ef20, Size=48, Default__Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.33:711][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001577b319230, Size=4
+[2018.08.25-01.38.33:712][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001577b318a28, Size=4
+[2018.08.25-01.38.33:714][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001577b31bc60, Size=4
+[2018.08.25-01.38.33:714][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571f652648, Size=4
+[2018.08.25-01.38.33:714][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571f652140, Size=4
+[2018.08.25-01.38.33:714][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b66096e8, Size=4
+[2018.08.25-01.38.40:424][956]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015796ba9c40, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.40:432][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015796ba9c40, Size=4
+[2018.08.25-01.38.40:432][956]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015796ba9c40, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_11:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.40:446][956]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015796ba9d78, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.55:099][540]BlueprintLog: New page: Compile Brawler_Anim_BP
+[2018.08.25-01.38.55:124][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015796ba9d78, Size=4
+[2018.08.25-01.38.55:124][540]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571f653f70, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_12:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.55:155][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157a962ef20, Size=48
+[2018.08.25-01.38.55:155][540]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571cee9f90, Size=48, Brawler_Anim_BP_C_8 Function /Engine/Transient.REINST_Brawler_Anim_BP_C_13:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.55:181][540]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b60225c0, Size=48, Default__Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.38.55:284][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571c14f760, Size=48
+[2018.08.25-01.38.55:284][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571f653f70, Size=4
+[2018.08.25-01.38.55:284][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015796ba9c40, Size=4
+[2018.08.25-01.38.56:367][591]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.38.56:385][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.38.56:385][591]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:38:56 PM)
+[2018.08.25-01.38.56:385][591]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.38.56:388][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002734s)
+[2018.08.25-01.38.56:388][591]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.38.56:388][591]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.08.25-01.38.56:389][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003728s)
+[2018.08.25-01.38.56:414][591]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571cee9f90, Size=48
+[2018.08.25-01.38.56:427][591]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.38.56:544][591]LogInit: FAudioDevice initialized.
+[2018.08.25-01.38.56:622][591]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.38.56:626][591]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.08.24-21.38.56
+[2018.08.25-01.38.56:627][591]LogWorld: Bringing up level for play took: 0.002327
+[2018.08.25-01.38.56:640][591]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.577
+[2018.08.25-01.38.58:562][645]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.38.59:062][670]LogHttp: Warning: 000001571E996500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.25-01.38.59:062][670]LogHttp: Warning: 000001571E996500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.25-01.38.59:062][670]LogHttp: Warning: 000001571E996500: libcurl info message cache 1 (Closing connection 1)
+[2018.08.25-01.39.05:927][969]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b38b4bd0, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.SKEL_Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.39.50:146][ 12]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.39.50:169][ 12]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b38b4bd0, Size=4
+[2018.08.25-01.39.50:169][ 12]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015796baa718, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Engine/Transient.REINST_SKEL_Player_BrawlerBP_C_43:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.39.50:193][ 12]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571b68a5c0, Size=400
+[2018.08.25-01.39.50:193][ 12]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b31b5280, Size=400, Player_BrawlerBP_C_29 Function /Engine/Transient.REINST_Player_BrawlerBP_C_46:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.39.50:203][ 12]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571b68a5c0, Size=408, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.39.50:575][ 12]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015796baa718, Size=4
+[2018.08.25-01.39.51:564][ 56]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.39.51:601][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.39.51:601][ 56]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:39:51 PM)
+[2018.08.25-01.39.51:602][ 56]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.39.51:606][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003948s)
+[2018.08.25-01.39.51:607][ 56]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.39.51:607][ 56]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2018.08.25-01.39.51:607][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.005384s)
+[2018.08.25-01.39.51:647][ 56]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.39.51:760][ 56]LogInit: FAudioDevice initialized.
+[2018.08.25-01.39.51:832][ 56]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.39.51:836][ 56]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.08.24-21.39.51
+[2018.08.25-01.39.51:837][ 56]LogWorld: Bringing up level for play took: 0.002809
+[2018.08.25-01.39.51:850][ 56]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel -0.213
+[2018.08.25-01.40.12:644][882]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.40.18:415][120]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.40.18:432][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.40.18:432][120]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:40:18 PM)
+[2018.08.25-01.40.18:433][120]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.40.18:435][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002550s)
+[2018.08.25-01.40.18:436][120]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.40.18:436][120]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2018.08.25-01.40.18:436][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003476s)
+[2018.08.25-01.40.18:462][120]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.40.18:536][120]LogInit: FAudioDevice initialized.
+[2018.08.25-01.40.18:605][120]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.40.18:609][120]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.08.24-21.40.18
+[2018.08.25-01.40.18:610][120]LogWorld: Bringing up level for play took: 0.002517
+[2018.08.25-01.40.18:628][120]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.565
+[2018.08.25-01.40.47:346][189]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.40.59:105][715]LogHttp: Warning: 00000157C036FB80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.25-01.40.59:105][715]LogHttp: Warning: 00000157C036FB80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.25-01.40.59:105][715]LogHttp: Warning: 00000157C036FB80: libcurl info message cache 1 (Closing connection 2)
+[2018.08.25-01.41.32:462][303]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.41.32:509][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571b68a5c0, Size=408
+[2018.08.25-01.41.32:509][303]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b375b3c0, Size=408, Player_BrawlerBP_C_38 Function /Engine/Transient.REINST_Player_BrawlerBP_C_51:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.41.32:520][303]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b3758480, Size=408, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.41.33:991][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP" FILE="../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset" SILENT=true
+[2018.08.25-01.41.34:174][353]LogSavePackage: Save=177.54ms
+[2018.08.25-01.41.34:174][353]LogSavePackage: Moving '../../../../../GameDev_UE4/MyRPG/Saved/Player_BrawlerBPE41119DF4C6C4D51A3E611A10CF69F56.tmp' to '../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset'
+[2018.08.25-01.41.34:175][353]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset
+[2018.08.25-01.41.35:100][400]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.41.35:136][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.41.35:136][400]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:41:35 PM)
+[2018.08.25-01.41.35:136][400]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.41.35:141][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004426s)
+[2018.08.25-01.41.35:142][400]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.41.35:142][400]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2018.08.25-01.41.35:142][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.006203s)
+[2018.08.25-01.41.35:161][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b375b3c0, Size=408
+[2018.08.25-01.41.35:170][400]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.41.35:241][400]LogInit: FAudioDevice initialized.
+[2018.08.25-01.41.35:301][400]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.41.35:304][400]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2018.08.24-21.41.35
+[2018.08.25-01.41.35:304][400]LogWorld: Bringing up level for play took: 0.001743
+[2018.08.25-01.41.35:315][400]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel -0.748
+[2018.08.25-01.41.50:792][998]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.41.55:753][241]LogEditorTransaction: Undo Break Pin Links
+[2018.08.25-01.41.55:766][241]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b35825a0, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.SKEL_Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.41.56:005][241]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.25-01.42.10:428][996]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.42.10:450][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b35825a0, Size=4
+[2018.08.25-01.42.10:450][996]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b6f4db88, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Engine/Transient.REINST_SKEL_Player_BrawlerBP_C_55:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.42.10:476][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b3758480, Size=408
+[2018.08.25-01.42.10:476][996]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015790398480, Size=408, Player_BrawlerBP_C_56 Function /Engine/Transient.REINST_Player_BrawlerBP_C_58:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.42.10:488][996]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b3c44b80, Size=408, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.42.10:969][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b6f4db88, Size=4
+[2018.08.25-01.42.11:847][ 33]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.42.11:882][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.42.11:882][ 33]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:42:11 PM)
+[2018.08.25-01.42.11:882][ 33]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.42.11:885][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003026s)
+[2018.08.25-01.42.11:886][ 33]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.42.11:886][ 33]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2018.08.25-01.42.11:886][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.004187s)
+[2018.08.25-01.42.11:909][ 33]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015790398480, Size=408
+[2018.08.25-01.42.11:921][ 33]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.42.12:071][ 33]LogInit: FAudioDevice initialized.
+[2018.08.25-01.42.12:157][ 33]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.42.12:162][ 33]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.42.12
+[2018.08.25-01.42.12:163][ 33]LogWorld: Bringing up level for play took: 0.003210
+[2018.08.25-01.42.12:174][ 33]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.112
+[2018.08.25-01.42.13:289][ 67]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.42.16:743][256]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b30c6e50, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.SKEL_Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.42.33:506][ 47]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.42.33:524][ 47]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b30c6e50, Size=4
+[2018.08.25-01.42.33:524][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b6f4f408, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Engine/Transient.REINST_SKEL_Player_BrawlerBP_C_62:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.42.33:573][ 47]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b60225c0, Size=48
+[2018.08.25-01.42.33:573][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571f4ee710, Size=48, Default__Brawler_Anim_BP_C Function /Engine/Transient.REINST_Brawler_Anim_BP_C_18:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.42.33:574][ 47]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b3c44b80, Size=408
+[2018.08.25-01.42.33:574][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571a517740, Size=408, Player_BrawlerBP_C_82 Function /Engine/Transient.REINST_Player_BrawlerBP_C_65:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.42.33:593][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015791d7efe0, Size=48, Default__Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.42.33:595][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b3cadd80, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.42.33:937][ 47]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b6f4f408, Size=4
+[2018.08.25-01.42.34:638][ 69]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.42.34:674][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.42.34:675][ 69]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:42:34 PM)
+[2018.08.25-01.42.34:675][ 69]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.42.34:678][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003180s)
+[2018.08.25-01.42.34:679][ 69]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.42.34:679][ 69]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2018.08.25-01.42.34:679][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.004282s)
+[2018.08.25-01.42.34:703][ 69]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571f4ee710, Size=48
+[2018.08.25-01.42.34:715][ 69]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.42.34:836][ 69]LogInit: FAudioDevice initialized.
+[2018.08.25-01.42.34:950][ 69]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.42.34:955][ 69]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.42.34
+[2018.08.25-01.42.34:955][ 69]LogWorld: Bringing up level for play took: 0.002880
+[2018.08.25-01.42.34:971][ 69]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.908
+[2018.08.25-01.42.45:697][485]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.42.49:534][650]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.42.49:553][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.42.49:554][650]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:42:49 PM)
+[2018.08.25-01.42.49:554][650]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.42.49:558][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003376s)
+[2018.08.25-01.42.49:559][650]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.42.49:559][650]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2018.08.25-01.42.49:559][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.004567s)
+[2018.08.25-01.42.49:593][650]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.42.49:716][650]LogInit: FAudioDevice initialized.
+[2018.08.25-01.42.49:784][650]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.42.49:787][650]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.42.49
+[2018.08.25-01.42.49:788][650]LogWorld: Bringing up level for play took: 0.001835
+[2018.08.25-01.42.49:808][650]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel -0.255
+[2018.08.25-01.42.59:152][991]LogHttp: Warning: 000001577A8D1000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.25-01.42.59:152][991]LogHttp: Warning: 000001577A8D1000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.25-01.42.59:152][991]LogHttp: Warning: 000001577A8D1000: libcurl info message cache 1 (Closing connection 3)
+[2018.08.25-01.43.06:108][279]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.43.16:460][712]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.43.16:492][712]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b3cadd80, Size=376
+[2018.08.25-01.43.16:492][712]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157249c8b80, Size=376, Player_BrawlerBP_C_100 Function /Engine/Transient.REINST_Player_BrawlerBP_C_71:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.43.16:499][712]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b75a2080, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.43.18:385][767]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.43.18:428][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.43.18:428][767]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:43:18 PM)
+[2018.08.25-01.43.18:428][767]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.43.18:431][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002988s)
+[2018.08.25-01.43.18:432][767]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.43.18:432][767]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.08.25-01.43.18:432][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003987s)
+[2018.08.25-01.43.18:451][767]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157249c8b80, Size=376
+[2018.08.25-01.43.18:461][767]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.43.18:544][767]LogInit: FAudioDevice initialized.
+[2018.08.25-01.43.18:599][767]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.43.18:601][767]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.43.18
+[2018.08.25-01.43.18:601][767]LogWorld: Bringing up level for play took: 0.001203
+[2018.08.25-01.43.18:608][767]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.545
+[2018.08.25-01.43.20:848][854]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.43.26:136][100]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::Delay' [Element not found.]
+[2018.08.25-01.43.26:944][147]LogEditorTransaction: Undo Create Pin Link
+[2018.08.25-01.43.26:953][147]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b6f4d2c8, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.SKEL_Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.43.27:137][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.25-01.43.27:739][169]LogEditorTransaction: Undo Break Pin Links
+[2018.08.25-01.43.27:741][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b6f4d2c8, Size=4
+[2018.08.25-01.43.27:741][169]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b660a368, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Engine/Transient.REINST_SKEL_Player_BrawlerBP_C_75:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.43.27:748][169]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b660b3c8, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.SKEL_Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.43.27:911][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.25-01.43.39:870][811]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.43.39:886][811]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b660b3c8, Size=4
+[2018.08.25-01.43.39:886][811]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015796ba9980, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Engine/Transient.REINST_SKEL_Player_BrawlerBP_C_77:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.43.39:910][811]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b75a2080, Size=376
+[2018.08.25-01.43.39:910][811]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b39f9600, Size=376, Player_BrawlerBP_C_134 Function /Engine/Transient.REINST_Player_BrawlerBP_C_80:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.43.39:919][811]LogUObjectGlobals: Created PersistentFrame Addr=0x000001577aaa5000, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.43.40:295][811]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015796ba9980, Size=4
+[2018.08.25-01.43.40:295][811]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b660a368, Size=4
+[2018.08.25-01.43.40:877][846]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.43.40:909][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.43.40:910][846]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:43:40 PM)
+[2018.08.25-01.43.40:910][846]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.43.40:912][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002689s)
+[2018.08.25-01.43.40:913][846]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.43.40:913][846]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2018.08.25-01.43.40:913][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003670s)
+[2018.08.25-01.43.40:946][846]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b39f9600, Size=376
+[2018.08.25-01.43.40:971][846]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.43.41:100][846]LogInit: FAudioDevice initialized.
+[2018.08.25-01.43.41:154][846]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.43.41:156][846]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.43.41
+[2018.08.25-01.43.41:156][846]LogWorld: Bringing up level for play took: 0.001021
+[2018.08.25-01.43.41:162][846]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 1.1
+[2018.08.25-01.43.46:624][ 71]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.44.59:191][238]LogHttp: Warning: 000001579030E080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.25-01.44.59:191][238]LogHttp: Warning: 000001579030E080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.25-01.44.59:191][238]LogHttp: Warning: 000001579030E080: libcurl info message cache 1 (Closing connection 4)
+[2018.08.25-01.45.00:764][313]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.45.00:803][313]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001577aaa5000, Size=376
+[2018.08.25-01.45.00:803][313]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b8504100, Size=376, Player_BrawlerBP_C_152 Function /Engine/Transient.REINST_Player_BrawlerBP_C_85:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.45.00:810][313]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015700b09780, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.45.02:387][358]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.45.02:435][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.45.02:436][358]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:45:02 PM)
+[2018.08.25-01.45.02:436][358]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.45.02:439][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002998s)
+[2018.08.25-01.45.02:439][358]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.45.02:440][358]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2018.08.25-01.45.02:440][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.004053s)
+[2018.08.25-01.45.02:459][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b8504100, Size=376
+[2018.08.25-01.45.02:510][358]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.45.02:597][358]LogInit: FAudioDevice initialized.
+[2018.08.25-01.45.02:659][358]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.45.02:663][358]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.45.02
+[2018.08.25-01.45.02:663][358]LogWorld: Bringing up level for play took: 0.001862
+[2018.08.25-01.45.02:674][358]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.611
+[2018.08.25-01.45.06:449][497]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.45.09:703][646]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.45.09:725][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.45.09:725][646]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:45:09 PM)
+[2018.08.25-01.45.09:725][646]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.45.09:729][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003460s)
+[2018.08.25-01.45.09:729][646]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.45.09:730][646]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2018.08.25-01.45.09:730][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.004691s)
+[2018.08.25-01.45.09:763][646]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.45.09:872][646]LogInit: FAudioDevice initialized.
+[2018.08.25-01.45.09:938][646]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.45.09:941][646]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.45.09
+[2018.08.25-01.45.09:942][646]LogWorld: Bringing up level for play took: 0.002068
+[2018.08.25-01.45.09:957][646]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel -0.106
+[2018.08.25-01.45.19:416][971]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.45.23:646][121]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.45.23:690][121]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015700b09780, Size=376
+[2018.08.25-01.45.23:691][121]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157902eac80, Size=376, Player_BrawlerBP_C_170 Function /Engine/Transient.REINST_Player_BrawlerBP_C_90:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.45.23:700][121]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571b16ec80, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.45.25:954][194]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.45.25:993][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.45.25:993][194]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:45:25 PM)
+[2018.08.25-01.45.25:993][194]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.45.25:996][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002776s)
+[2018.08.25-01.45.25:997][194]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.45.25:997][194]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2018.08.25-01.45.25:997][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003745s)
+[2018.08.25-01.45.26:022][194]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157902eac80, Size=376
+[2018.08.25-01.45.26:037][194]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.45.26:173][194]LogInit: FAudioDevice initialized.
+[2018.08.25-01.45.26:251][194]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.45.26:255][194]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.45.26
+[2018.08.25-01.45.26:255][194]LogWorld: Bringing up level for play took: 0.002047
+[2018.08.25-01.45.26:265][194]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.202
+[2018.08.25-01.45.31:357][381]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.45.42:437][856]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.45.42:481][856]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571b16ec80, Size=376
+[2018.08.25-01.45.42:481][856]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571b16ec80, Size=376, Player_BrawlerBP_C_188 Function /Engine/Transient.REINST_Player_BrawlerBP_C_95:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.45.42:493][856]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157bae45c00, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.45.43:473][875]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.45.43:511][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.45.43:512][875]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:45:43 PM)
+[2018.08.25-01.45.43:512][875]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.45.43:514][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002589s)
+[2018.08.25-01.45.43:515][875]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.45.43:515][875]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2018.08.25-01.45.43:515][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003609s)
+[2018.08.25-01.45.43:539][875]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571b16ec80, Size=376
+[2018.08.25-01.45.43:550][875]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.45.43:667][875]LogInit: FAudioDevice initialized.
+[2018.08.25-01.45.43:767][875]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.45.43:772][875]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.45.43
+[2018.08.25-01.45.43:773][875]LogWorld: Bringing up level for play took: 0.003366
+[2018.08.25-01.45.43:789][875]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel -0.274
+[2018.08.25-01.45.46:921][984]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.45.57:434][341]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.45.57:478][341]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157bae45c00, Size=376
+[2018.08.25-01.45.57:478][341]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b312f700, Size=376, Player_BrawlerBP_C_206 Function /Engine/Transient.REINST_Player_BrawlerBP_C_100:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.45.57:488][341]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571b2bb580, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.45.59:245][406]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.45.59:284][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.45.59:284][406]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:45:59 PM)
+[2018.08.25-01.45.59:284][406]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.45.59:287][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002916s)
+[2018.08.25-01.45.59:288][406]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.45.59:288][406]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.08.25-01.45.59:288][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003948s)
+[2018.08.25-01.45.59:312][406]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b312f700, Size=376
+[2018.08.25-01.45.59:324][406]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.45.59:450][406]LogInit: FAudioDevice initialized.
+[2018.08.25-01.45.59:515][406]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.45.59:517][406]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.45.59
+[2018.08.25-01.45.59:517][406]LogWorld: Bringing up level for play took: 0.000956
+[2018.08.25-01.45.59:524][406]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel -0.539
+[2018.08.25-01.46.06:151][661]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.46.15:054][ 59]LogEditorTransaction: Undo Move Nodes
+[2018.08.25-01.46.15:063][ 59]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015784a21798, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.SKEL_Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.46.15:317][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.25-01.46.15:503][ 60]LogEditorTransaction: Undo Resize Node
+[2018.08.25-01.46.15:504][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015784a21798, Size=4
+[2018.08.25-01.46.15:504][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b660bda8, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Engine/Transient.REINST_SKEL_Player_BrawlerBP_C_104:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.46.15:507][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b660a840, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.SKEL_Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.46.15:733][ 60]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.25-01.46.20:602][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP" FILE="../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset" SILENT=true
+[2018.08.25-01.46.20:673][234]LogSavePackage: Save=66.54ms
+[2018.08.25-01.46.20:673][234]LogSavePackage: Moving '../../../../../GameDev_UE4/MyRPG/Saved/Player_BrawlerBP78128E67479FC15AF4A0CBA0A8312D5D.tmp' to '../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset'
+[2018.08.25-01.46.20:674][234]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset
+[2018.08.25-01.46.22:378][333]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.46.22:401][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b660a840, Size=4
+[2018.08.25-01.46.22:401][333]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571f653978, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Engine/Transient.REINST_SKEL_Player_BrawlerBP_C_106:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.46.22:435][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571b2bb580, Size=376
+[2018.08.25-01.46.22:436][333]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b8963880, Size=376, Player_BrawlerBP_C_240 Function /Engine/Transient.REINST_Player_BrawlerBP_C_109:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.46.22:443][333]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157bf5f0a00, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.46.22:988][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571f653978, Size=4
+[2018.08.25-01.46.22:988][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b660bda8, Size=4
+[2018.08.25-01.46.24:379][386]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.46.24:421][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.46.24:421][386]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:46:24 PM)
+[2018.08.25-01.46.24:422][386]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.46.24:425][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003335s)
+[2018.08.25-01.46.24:426][386]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.46.24:426][386]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2018.08.25-01.46.24:426][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.004479s)
+[2018.08.25-01.46.24:453][386]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b8963880, Size=376
+[2018.08.25-01.46.24:466][386]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.46.24:594][386]LogInit: FAudioDevice initialized.
+[2018.08.25-01.46.24:659][386]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.46.24:662][386]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.46.24
+[2018.08.25-01.46.24:663][386]LogWorld: Bringing up level for play took: 0.001803
+[2018.08.25-01.46.24:671][386]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.609
+[2018.08.25-01.46.32:490][701]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.46.59:238][777]LogHttp: Warning: 00000157C6C62080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.25-01.46.59:238][777]LogHttp: Warning: 00000157C6C62080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.25-01.46.59:238][777]LogHttp: Warning: 00000157C6C62080: libcurl info message cache 1 (Closing connection 5)
+[2018.08.25-01.47.43:599][765]LogEditorTransaction: Undo Create Pin Link
+[2018.08.25-01.47.43:612][765]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b7f99ed0, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.SKEL_Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.47.43:804][765]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.25-01.48.26:330][622]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.48.26:353][622]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b7f99ed0, Size=4
+[2018.08.25-01.48.26:353][622]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571a1f9708, Size=4, Default__SKEL_Player_BrawlerBP_C Function /Engine/Transient.REINST_SKEL_Player_BrawlerBP_C_113:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.48.26:375][622]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157bf5f0a00, Size=376
+[2018.08.25-01.48.26:376][622]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157bea8c400, Size=376, Player_BrawlerBP_C_274 Function /Engine/Transient.REINST_Player_BrawlerBP_C_116:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.48.26:384][622]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157bc25f700, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.48.26:894][622]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571a1f9708, Size=4
+[2018.08.25-01.48.28:263][673]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.48.28:315][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.48.28:315][673]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:48:28 PM)
+[2018.08.25-01.48.28:315][673]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.48.28:318][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002687s)
+[2018.08.25-01.48.28:319][673]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.48.28:319][673]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2018.08.25-01.48.28:319][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003747s)
+[2018.08.25-01.48.28:355][673]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.48.28:460][673]LogInit: FAudioDevice initialized.
+[2018.08.25-01.48.28:517][673]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.48.28:519][673]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.48.28
+[2018.08.25-01.48.28:519][673]LogWorld: Bringing up level for play took: 0.000987
+[2018.08.25-01.48.28:525][673]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.462
+[2018.08.25-01.48.35:450][902]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.48.59:311][908]LogHttp: Warning: 00000157C3453E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.25-01.48.59:311][908]LogHttp: Warning: 00000157C3453E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.25-01.48.59:312][908]LogHttp: Warning: 00000157C3453E80: libcurl info message cache 1 (Closing connection 6)
+[2018.08.25-01.49.03:947][142]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.49.03:996][142]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157bc25f700, Size=376
+[2018.08.25-01.49.03:996][142]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157c0c0f880, Size=376, Player_BrawlerBP_C_292 Function /Engine/Transient.REINST_Player_BrawlerBP_C_121:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.49.04:007][142]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157be84a080, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.49.05:049][165]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.49.05:091][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.49.05:091][165]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:49:05 PM)
+[2018.08.25-01.49.05:091][165]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.49.05:094][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002940s)
+[2018.08.25-01.49.05:095][165]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.49.05:095][165]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2018.08.25-01.49.05:095][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.004575s)
+[2018.08.25-01.49.05:120][165]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157c0c0f880, Size=376
+[2018.08.25-01.49.05:131][165]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.49.05:257][165]LogInit: FAudioDevice initialized.
+[2018.08.25-01.49.05:313][165]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.49.05:315][165]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.49.05
+[2018.08.25-01.49.05:315][165]LogWorld: Bringing up level for play took: 0.001328
+[2018.08.25-01.49.05:322][165]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel -0.741
+[2018.08.25-01.49.11:981][418]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.49.54:978][408]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015784a21878, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.49.54:985][408]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015784a21878, Size=4
+[2018.08.25-01.49.54:986][408]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015784a21878, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_29:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.49.55:002][408]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015784a21818, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.50.07:551][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015784a21818, Size=4
+[2018.08.25-01.50.07:551][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b30c5040, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_30:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.50.07:577][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b30c6b88, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.SKEL_Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.50.18:676][600]BlueprintLog: New page: Compile Brawler_Anim_BP
+[2018.08.25-01.50.18:700][600]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b30c6b88, Size=4
+[2018.08.25-01.50.18:700][600]LogUObjectGlobals: Created PersistentFrame Addr=0x000001571f653b10, Size=4, Default__SKEL_Brawler_Anim_BP_C Function /Engine/Transient.REINST_SKEL_Brawler_Anim_BP_C_31:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.50.18:743][600]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015791d7efe0, Size=48
+[2018.08.25-01.50.18:743][600]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b2a0bb80, Size=48, Default__Brawler_Anim_BP_C Function /Engine/Transient.REINST_Brawler_Anim_BP_C_32:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.50.18:762][600]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157b41c2d70, Size=48, Default__Brawler_Anim_BP_C Function /Game/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.Brawler_Anim_BP_C:ExecuteUbergraph_Brawler_Anim_BP
+[2018.08.25-01.50.18:893][600]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571f653b10, Size=4
+[2018.08.25-01.50.18:893][600]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b30c5040, Size=4
+[2018.08.25-01.50.18:893][600]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015784a21878, Size=4
+[2018.08.25-01.50.30:199][ 64]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.50.30:244][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157be84a080, Size=376
+[2018.08.25-01.50.30:244][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157c095c280, Size=376, Player_BrawlerBP_C_326 Function /Engine/Transient.REINST_Player_BrawlerBP_C_133:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.50.30:253][ 64]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157bac07580, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.50.30:654][ 64]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b2a0bb80, Size=48
+[2018.08.25-01.50.31:358][102]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.50.31:400][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.50.31:400][102]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:50:31 PM)
+[2018.08.25-01.50.31:400][102]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.50.31:404][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003554s)
+[2018.08.25-01.50.31:405][102]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.50.31:405][102]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2018.08.25-01.50.31:405][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.004925s)
+[2018.08.25-01.50.31:433][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157c095c280, Size=376
+[2018.08.25-01.50.31:447][102]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.50.31:581][102]LogInit: FAudioDevice initialized.
+[2018.08.25-01.50.31:660][102]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.50.31:663][102]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.50.31
+[2018.08.25-01.50.31:664][102]LogWorld: Bringing up level for play took: 0.001857
+[2018.08.25-01.50.31:677][102]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel -0.386
+[2018.08.25-01.50.34:552][206]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.50.42:558][605]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.50.42:577][605]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.25-01.50.42:599][605]LogPlayLevel: [PlayLevel] Compiling Player_BrawlerBP before play...
+[2018.08.25-01.50.42:619][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157bac07580, Size=376
+[2018.08.25-01.50.42:619][605]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157badc2800, Size=376, Player_BrawlerBP_C_344 Function /Engine/Transient.REINST_Player_BrawlerBP_C_138:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.50.42:628][605]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157be484280, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.50.43:056][605]LogPlayLevel: PlayLevel: Blueprint regeneration took 478 ms (1 blueprints)
+[2018.08.25-01.50.43:056][605]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:50:43 PM)
+[2018.08.25-01.50.43:056][605]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.50.43:058][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002304s)
+[2018.08.25-01.50.43:059][605]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.50.43:059][605]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2018.08.25-01.50.43:059][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003073s)
+[2018.08.25-01.50.43:084][605]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.50.43:157][605]LogInit: FAudioDevice initialized.
+[2018.08.25-01.50.43:215][605]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.50.43:218][605]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.50.43
+[2018.08.25-01.50.43:218][605]LogWorld: Bringing up level for play took: 0.001392
+[2018.08.25-01.50.43:225][605]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 1.163
+[2018.08.25-01.50.51:311][943]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.50.55:649][155]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.50.55:687][155]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157be484280, Size=376
+[2018.08.25-01.50.55:687][155]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157badc3700, Size=376, Player_BrawlerBP_C_366 Function /Engine/Transient.REINST_Player_BrawlerBP_C_143:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.50.55:696][155]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157bc261300, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.50.57:932][224]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.50.57:975][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.50.57:975][224]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:50:57 PM)
+[2018.08.25-01.50.57:975][224]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.50.57:978][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003044s)
+[2018.08.25-01.50.57:979][224]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.50.57:979][224]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2018.08.25-01.50.57:979][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.004089s)
+[2018.08.25-01.50.58:000][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157badc2800, Size=376
+[2018.08.25-01.50.58:000][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157badc3700, Size=376
+[2018.08.25-01.50.58:009][224]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.50.58:082][224]LogInit: FAudioDevice initialized.
+[2018.08.25-01.50.58:144][224]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.50.58:148][224]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.50.58
+[2018.08.25-01.50.58:149][224]LogWorld: Bringing up level for play took: 0.002644
+[2018.08.25-01.50.58:161][224]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.098
+[2018.08.25-01.50.59:392][265]LogHttp: Warning: 00000157A73D6B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.25-01.50.59:392][265]LogHttp: Warning: 00000157A73D6B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.25-01.50.59:392][265]LogHttp: Warning: 00000157A73D6B00: libcurl info message cache 1 (Closing connection 7)
+[2018.08.25-01.51.03:443][419]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.51.10:250][720]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.25-01.51.10:269][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.25-01.51.10:269][720]PIE: New page: PIE session: MainLevel (Aug 24, 2018, 5:51:10 PM)
+[2018.08.25-01.51.10:269][720]LogPlayLevel: Creating play world package: /Game/LevelScenes/UEDPIE_0_MainLevel
+[2018.08.25-01.51.10:272][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002866s)
+[2018.08.25-01.51.10:273][720]LogAIModule: Creating AISystem for world MainLevel
+[2018.08.25-01.51.10:273][720]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2018.08.25-01.51.10:273][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelScenes/MainLevel.MainLevel to /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel (0.003861s)
+[2018.08.25-01.51.10:300][720]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.25-01.51.10:372][720]LogInit: FAudioDevice initialized.
+[2018.08.25-01.51.10:436][720]LogLoad: Game class is 'GameModeBase'
+[2018.08.25-01.51.10:439][720]LogWorld: Bringing World /Game/LevelScenes/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2018.08.24-21.51.10
+[2018.08.25-01.51.10:439][720]LogWorld: Bringing up level for play took: 0.001475
+[2018.08.25-01.51.10:453][720]PIE: Play in editor start time for /Game/LevelScenes/UEDPIE_0_MainLevel 0.391
+[2018.08.25-01.51.23:743][257]LogSlate: Window 'MyRPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.25-01.52.07:769][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP" FILE="../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset" SILENT=true
+[2018.08.25-01.52.07:900][401]LogSavePackage: Save=121.37ms
+[2018.08.25-01.52.07:901][401]LogSavePackage: Moving '../../../../../GameDev_UE4/MyRPG/Saved/Player_BrawlerBP7D2D57674CFCA6FBC9C96F9ACB4EA1F4.tmp' to '../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset'
+[2018.08.25-01.52.07:904][401]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset
+[2018.08.25-01.52.10:184][524]BlueprintLog: New page: Compile Player_BrawlerBP
+[2018.08.25-01.52.10:223][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157bc261300, Size=376
+[2018.08.25-01.52.10:223][524]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157c6433b80, Size=376, Player_BrawlerBP_C_388 Function /Engine/Transient.REINST_Player_BrawlerBP_C_148:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.52.10:232][524]LogUObjectGlobals: Created PersistentFrame Addr=0x00000157c09e4880, Size=376, Default__Player_BrawlerBP_C Function /Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP.Player_BrawlerBP_C:ExecuteUbergraph_Player_BrawlerBP
+[2018.08.25-01.52.12:154][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacters/Player_Brawler/Player_BrawlerBP" FILE="../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset" SILENT=true
+[2018.08.25-01.52.12:234][589]LogSavePackage: Save=74.77ms
+[2018.08.25-01.52.12:234][589]LogSavePackage: Moving '../../../../../GameDev_UE4/MyRPG/Saved/Player_BrawlerBPD769F41E4E40B48FE41AE89FAA91097B.tmp' to '../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset'
+[2018.08.25-01.52.12:235][589]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Player_BrawlerBP.uasset
+[2018.08.25-01.52.16:904][758]LogSavePackage: Save=114.91ms
+[2018.08.25-01.52.16:904][758]LogSavePackage: Moving '../../../../../GameDev_UE4/MyRPG/Saved/Brawler_Anim_BP09121F5349AAF40238FFAAB7496EF745.tmp' to '../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.uasset'
+[2018.08.25-01.52.16:905][758]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev_UE4/MyRPG/Content/PlayerCharacters/Player_Brawler/Animations/Brawler_Anim_BP.uasset
+[2018.08.25-01.52.18:348][813]LogSlate: Window 'Brawler_Anim_BP' being destroyed
+[2018.08.25-01.52.18:357][813]LogSlate: Window 'Brawler_Anim_BP' being destroyed
+[2018.08.25-01.52.19:539][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157c6433b80, Size=376
+[2018.08.25-01.52.21:353][821]LogSlate: Window 'Save Content' being destroyed
+[2018.08.25-01.52.21:467][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelScenes/MainLevel" FILE="../../../../../GameDev_UE4/MyRPG/Content/LevelScenes/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.25-01.52.21:612][821]LogSavePackage: Save=88.91ms
+[2018.08.25-01.52.21:613][821]LogSavePackage: Moving '../../../../../GameDev_UE4/MyRPG/Saved/MainLevel8E261ECA4806B162FC2C79AF5498DA59.tmp' to '../../../../../GameDev_UE4/MyRPG/Content/LevelScenes/MainLevel.umap'
+[2018.08.25-01.52.21:615][821]LogSavePackage: Display: Finished SavePackage ../../../../../GameDev_UE4/MyRPG/Content/LevelScenes/MainLevel.umap
+[2018.08.25-01.52.21:675][821]LogFileHelpers: Saving map 'MainLevel' took 0.298
+[2018.08.25-01.52.21:864][821]LogSlate: Window 'MyRPG - Unreal Editor' being destroyed
+[2018.08.25-01.52.21:866][821]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.25-01.52.22:246][822]Cmd: QUIT_EDITOR
+[2018.08.25-01.52.23:203][822]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.25-01.52.23:204][822]LogExit: Preparing to exit.
+[2018.08.25-01.52.24:332][822]LogDirectoryWatcher: A directory notification for 'D:/GameDev_UE4/MyRPG/Content/' was aborted.
+[2018.08.25-01.52.24:372][822]LogExit: Editor shut down
+[2018.08.25-01.52.24:386][822]LogExit: Transaction tracking system shut down
+[2018.08.25-01.52.24:387][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b41c2d70, Size=48
+[2018.08.25-01.52.24:387][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571b68ae80, Size=400
+[2018.08.25-01.52.24:392][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157b31b5280, Size=400
+[2018.08.25-01.52.24:392][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001571a517740, Size=408
+[2018.08.25-01.52.24:394][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015702a56050, Size=4
+[2018.08.25-01.52.24:394][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015702a56048, Size=4
+[2018.08.25-01.52.24:399][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157bea8c400, Size=376
+[2018.08.25-01.52.24:399][822]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000157c09e4880, Size=376
+[2018.08.25-01.52.24:638][822]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.25-01.52.24:639][822]LogDirectoryWatcher: A directory notification for '../../../../../GameDev_UE4/MyRPG/Content/' was aborted.
+[2018.08.25-01.52.24:639][822]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.25-01.52.24:640][822]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.08.25-01.52.24:640][822]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.25-01.52.24:640][822]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.08.25-01.52.24:640][822]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.25-01.52.24:640][822]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.25-01.52.24:828][822]LogExit: Object subsystem successfully closed.
+[2018.08.25-01.52.24:851][822]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.25-01.52.24:855][822]LogD3D11RHI: Shutdown
+[2018.08.25-01.52.24:855][822]LogD3D11RHI: CleanupD3DDevice
+[2018.08.25-01.52.24:859][822]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.25-01.52.24:870][822]LogModuleManager: Shutting down and abandoning module AnimationEditor (590)
+[2018.08.25-01.52.24:870][822]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (588)
+[2018.08.25-01.52.24:871][822]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (586)
+[2018.08.25-01.52.24:871][822]LogModuleManager: Shutting down and abandoning module PinnedCommandList (584)
+[2018.08.25-01.52.24:871][822]LogModuleManager: Shutting down and abandoning module SkeletonEditor (582)
+[2018.08.25-01.52.24:871][822]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (580)
+[2018.08.25-01.52.24:871][822]LogModuleManager: Shutting down and abandoning module BlueprintGraph (578)
+[2018.08.25-01.52.24:871][822]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.08.25-01.52.24:871][822]LogModuleManager: Shutting down and abandoning module DesktopPlatform (574)
+[2018.08.25-01.52.24:871][822]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.08.25-01.52.24:920][822]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.08.25-01.52.24:920][822]LogDirectoryWatcher: A directory notification for 'D:/Unreal/UE_4.19/FeaturePacks/' was aborted.
+[2018.08.25-01.52.24:921][822]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.08.25-01.52.24:921][822]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.08.25-01.52.24:921][822]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.08.25-01.52.24:921][822]LogDirectoryWatcher: A directory notification for 'D:/GameDev_UE4/MyRPG/Content/Collections/' was aborted.
+[2018.08.25-01.52.24:921][822]LogDirectoryWatcher: A directory notification for 'D:/GameDev_UE4/MyRPG/Content/Developers/mikee/Collections/' was aborted.
+[2018.08.25-01.52.24:921][822]LogDirectoryWatcher: A directory notification for 'D:/GameDev_UE4/MyRPG/Saved/Collections/' was aborted.
+[2018.08.25-01.52.24:921][822]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.08.25-01.52.24:921][822]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.08.25-01.52.24:921][822]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.08.25-01.52.24:921][822]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.08.25-01.52.24:921][822]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.08.25-01.52.24:921][822]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.08.25-01.52.24:921][822]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.08.25-01.52.24:922][822]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.08.25-01.52.24:923][822]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.08.25-01.52.24:923][822]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.08.25-01.52.24:923][822]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.08.25-01.52.24:923][822]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.08.25-01.52.24:923][822]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)

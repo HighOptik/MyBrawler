@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyRPG.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\GameDev_UE4\MyRPG\Intermediate\Build\Win64\UE4Editor\Development\MyRPG\MyRPG.cpp.obj"
+"D:\GameDev_UE4\MyRPG\Intermediate\Build\Win64\UE4Editor\Development\MyRPG\MyRPGGameModeBase.cpp.obj"
+"D:\GameDev_UE4\MyRPG\Intermediate\Build\Win64\UE4Editor\Development\MyRPG\MyRPG.init.gen.cpp.obj"
+"D:\GameDev_UE4\MyRPG\Intermediate\Build\Win64\UE4Editor\Development\MyRPG\MyRPGGameModeBase.gen.cpp.obj"
+"D:\Unreal\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\MyRPG\PCLaunch.rc.res"
+"D:\Unreal\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\GameDev_UE4\MyRPG\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyRPG.lib"
